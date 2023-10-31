@@ -46,7 +46,7 @@ O puedes poner un enlace entre corchetes [texto del enlace]
 Este es un proyecto con el fin de mostrar los lugares más importantes de la madre patria. El objetivo es demostrar las técnicas de aprendizaje más eficaces y avanzadas que se pueden aplicar en la vida diaria. El proyecto consta de poner en práctica las habilidades adquiridas para aplicar diseño responsivo en diferentes resoluciones (1280px, 768px y 320px).
 
 #### Propósito
-El objetivo principal de éste proyeto es fortalecer el conocimiento así como las mejores prácticas de HTML, CSS, KEYFRAMES, Metodología BEM y.... 
+El objetivo principal de éste proyeto es fortalecer el conocimiento así como aplicar las mejores prácticas enel uso de **HTML**, **CSS**, **Keyframes**, **Metodología BEM** y.... 
 
 #### Características
 
@@ -75,8 +75,8 @@ Para visualizar este proyecto en tu entorno local, sigue estos pasos:
 
 ## Consideraciones
 
-Este proyecto utiliza la Metodología BEM para organizar los bloques, elementos y sus modificaciones, los cuales estan enlazados con la hoja de estilos *index.css*. También se utilizan animaciones y transiciones para mejorar la experiencia del usuario.
+Este proyecto utiliza la Metodología BEM para organizar los bloques, elementos y sus modificaciones, los cuales estan enlazados con la hoja de estilos `index.css`. También se utilizan *animaciones* y *transiciones* para mejorar la experiencia del usuario.
 
 
 ### Enlaces
-Vista del sitio: 
+Da clic [aquí](https://mmgonnar.github.io/web_project_homeland/) para previsualizar el sitio.
