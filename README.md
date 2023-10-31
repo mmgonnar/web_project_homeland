@@ -39,15 +39,21 @@ O puedes poner un enlace entre corchetes [texto del enlace]
 --------
 
 
-# Proyecto 3: HTML y CSS Avanzados
+# Sprint 4: Responsive Design
 
 ## Descripción
 
-Este es un proyecto de HTML y CSS centrado en la competencia "Aprender a Aprender". El objetivo es demostrar las técnicas de aprendizaje más eficaces y avanzadas que se pueden aplicar en la vida diaria.
+Este es un proyecto con el fin de mostrar los lugares más importantes de la madre patria. El objetivo es demostrar las técnicas de aprendizaje más eficaces y avanzadas que se pueden aplicar en la vida diaria. El proyecto consta de poner en práctica las habilidades adquiridas para aplicar diseño responsivo en diferentes resoluciones (1280px, 768px y 320px).
+
+#### Propósito
+El objetivo principal de éste proyeto es fortalecer el conocimiento así como las mejores prácticas de HTML, CSS, KEYFRAMES, Metodología BEM y.... 
+
+#### Características
+
 
 ## Tecnologías Utilizadas
 
-- HTML
+- HTML5
 - CSS
   - `normalize.css` para hacer que los navegadores rendericen todos los elementos de manera más consistente y en línea con los estándares modernos.
 
@@ -57,6 +63,7 @@ Paraer la consist mantenundefinedncia y la legibilidad del código, se utilizan 
 
 - `.editorconfig` para definir y mantener estilos de codificación consistentes entre diferentes editores e IDEs.
 - `.prettierrc` para un formateo de código automático y consistente.
+- `.nojekyll` para evitar errores a la hora de desplegar el sitio en GitHub Pages.
 
 ## Instalación
 
@@ -68,4 +75,8 @@ Para visualizar este proyecto en tu entorno local, sigue estos pasos:
 
 ## Consideraciones
 
-Este proyecto utiliza la Metodología BEM para organizar las clases y archivos relacionados con la hoja de estilos. También se utilizan animaciones y transiciones para mejorar la experiencia del usuario.
+Este proyecto utiliza la Metodología BEM para organizar los bloques, elementos y sus modificaciones, los cuales estan enlazados con la hoja de estilos *index.css*. También se utilizan animaciones y transiciones para mejorar la experiencia del usuario.
+
+
+### Enlaces
+Vista del sitio: 
