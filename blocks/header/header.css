@@ -4,7 +4,7 @@
   align-items: center;
   width: 100%;
   background-color: #2A2C2F;
- /*  border: 6px red solid; */
+  border: 1px red solid;
 }
 
 .header__logo {
@@ -26,7 +26,7 @@
 }
 
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 480px){
   .header {
     width: 100%;
   }
