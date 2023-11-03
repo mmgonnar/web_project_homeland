@@ -4,13 +4,20 @@
 @import url(./blocks/header/header.css);
 @import url(./blocks/lead/lead.css);
 
+h1, h2, h3, h4, h5, h6, p, li {
+  margin: 0;
+}
 
 .page {
-  align-items: center;
+  max-width: 1280px;
   margin: auto;
-  font-family: "Inter";
+  font-family: 'Inter';
   background-color: #2A2C2F;
-  border: 6px red solid;
-  width: 1280px;
   color: #fff;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
 }
