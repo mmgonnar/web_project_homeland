@@ -14,9 +14,11 @@
 .header__title {
   font-family: "inter";
   font-weight: 900;
+  font-size: 96px;
   color: #fff;
   line-height: 100px;
   width: 793px;
   text-align: center;
   margin: auto;
+  padding-bottom: 32px;
 }
