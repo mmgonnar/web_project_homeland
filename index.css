@@ -2,6 +2,7 @@
 @import url(./fonts/fonts.css);
 
 @import url(./blocks/header/header.css);
+@import url(./blocks/lead/lead.css);
 
 .page {
   align-items: center;
