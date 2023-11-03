@@ -10,3 +10,13 @@
   padding-top: 34px;
   padding-bottom: 90px;
 }
+
+.header__title {
+  font-family: "inter";
+  font-weight: 900;
+  color: #fff;
+  line-height: 100px;
+  width: 793px;
+  text-align: center;
+  margin: auto;
+}
