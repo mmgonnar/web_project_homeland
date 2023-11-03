@@ -1,2 +1,13 @@
 @import url(./styles/normalize.css);
-@import url(./styles/fonts.css);
+@import url(./fonts/fonts.css);
+
+@import url(./blocks/header/header.css);
+
+.page {
+  align-items: center;
+  margin: auto;
+  font-family: "Inter";
+  background-color: #2A2C2F;
+  border: 6px red solid;
+  width: 1280px;
+}
