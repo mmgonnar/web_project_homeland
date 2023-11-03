@@ -1,2 +1,10 @@
 @import url(./styles/normalize.css);
 @import url(./styles/fonts.css);
+
+@import url(./blocks/header/header.css);
+
+.page {
+  max-width: 1280px;
+  font-family: "Inter";
+  background-color: #2A2C2F;
+}
