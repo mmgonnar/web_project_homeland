@@ -2,6 +2,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
+ /*  border: 6px red solid; */
 }
 
 .header__logo {
@@ -18,11 +20,21 @@
   font-family: "inter";
   font-weight: 900;
   font-size: 54px;
-  color: #fff;
   line-height: 58px;
   text-align: center;
   margin: auto;
   padding-bottom: 40px;
 }
 
+
+@media screen and (min-width: 320px) {
+  .header {
+    width: 25%%;
+  }
+
+  .header__logo {
+    min-width: 200px;
+    height: 70px;
+  }
+}
 
