@@ -1,0 +1,19 @@
+.intro {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  width: 100%;
+  border: 1px solid red;
+}
+
+
+.intro__title {
+  width: 1017px;
+  font-weight: 900;
+  font-size: 3.3em;
+  line-height: 3.6rem;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 2.5em;
+}
