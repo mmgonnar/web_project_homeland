@@ -1,0 +1,41 @@
+.intro {
+  margin: 0;
+  border: 1px solid red;
+  text-align: left;
+}
+
+.intro__container {
+  width: 1017px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.intro__title, .intro__main-text, .intro__author, .intro__text {
+  width: 76%;
+  font-family: "inter";
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 2.1rem;
+}
+
+.intro__title {
+  width: 100%;
+  font-weight: 900;
+  font-size: 3.35em;
+  line-height: 3.6rem;
+  padding-bottom: 2.5rem;
+}
+
+.intro__author {
+  text-align: right;
+  padding-bottom: 2em;
+  margin-top: -.75em;
+}
+
+.intro__text {
+  font-size: 1em;
+  line-height: 1.6rem;
+  padding-bottom: 5.74em;
+}
