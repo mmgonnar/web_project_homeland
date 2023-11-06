@@ -13,7 +13,7 @@
 }
 
 .intro__title, .intro__main-text, .intro__author, .intro__text {
-  width: 76%;
+  width: 71%;
   font-family: "inter";
   font-weight: 400;
   font-size: 1.5em;
@@ -25,7 +25,7 @@
   font-weight: 900;
   font-size: 3.35em;
   line-height: 3.6rem;
-  padding-bottom: .5rem;
+  padding-bottom: 2.5rem;
 }
 
 .intro__author {
@@ -33,12 +33,13 @@
   font-size: 1.5em;
   line-height: 2rem;
   margin-top: -.25em;
+  padding-bottom: 2em;
 }
 
 .intro__text {
   font-size: 1em;
   line-height: 1.6rem;
-  padding-bottom: 5.74em;
+  padding-bottom: 5.75em;
 }
 
 /* mobile 320px */
@@ -95,7 +96,6 @@
 
   .intro__author {
     width: 100%;
-    height: auto;
     line-height: 1.8rem;
   }
 
@@ -110,32 +110,33 @@
 /* tablet 768px */
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .intro__container{
-    width: 90%;
+    width: 95%;
   }
   .intro__title {
     max-width: 1024px;
     font-size: 3.3em;
     line-height: 3.6rem;
-    padding-bottom:1rem;
+    padding-bottom: 1em;
   }
 
   .intro__main-text {
     width: 100%;
     font-size: 1.5em;
-    line-height: 1.8rem;
-    padding-bottom: .5rem;
+    line-height: 2rem;
   }
 
   .intro__author {
     width: 100%;
-    height: auto;
     line-height: 1.8rem;
+    margin-top: -1em;
+    margin-right: 1em;
+    padding-bottom: 2em;
   }
 
   .intro__text {
     width: 100%;
     font-size: 1em;
-    line-height: 1.6rem;
-    padding-bottom: 1.5em;
+    line-height: 2.1rem;
+    padding-bottom: 1.6em;
   }
 }
