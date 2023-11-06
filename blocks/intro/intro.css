@@ -1,19 +1,30 @@
 .intro {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
   margin: 0;
   width: 100%;
   border: 1px solid red;
+  align-items: ;
 }
 
 
 .intro__title {
   width: 1017px;
   font-weight: 900;
-  font-size: 3.3em;
+  font-size: 3.35em;
   line-height: 3.6rem;
+  text-align: left;
+  margin: 0 148px 0;
+  padding-bottom: 2.5rem;
+}
+
+.intro__main-text {
+  width: 56%;
+  font-family: "inter";
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 2.1rem;
   text-align: center;
   margin: auto;
-  padding-bottom: 2.5em;
+  padding-bottom: 2em;
+  text-align: left;
+  margin-left: 148px;
 }
