@@ -5,8 +5,6 @@
 @import url(./blocks/lead/lead.css);
 @import url(./blocks/intro/intro.css);
 
-@import url(./blocks/footer/footer.css);
-
 h1, h2, h3, h4, h5, h6, p, li {
   margin: 0;
 }
