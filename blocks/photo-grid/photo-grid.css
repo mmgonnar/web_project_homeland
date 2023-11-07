@@ -1,8 +1,23 @@
 .photo-grid {
   margin: 0;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 16px;
-  justify-content: center;
 }
+
+.photo-grid__container {
+  margin: auto;
+  width: 1184px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1em;
+  padding-bottom: 10em;
+}
+
+.photo-grid__image {
+  flex-basis: 284px;
+  max-width: 352px;
+}
+
+
+
