@@ -23,7 +23,9 @@
   line-height: 4.75rem;
   font-weight: 900;
   height: 152px;
-  width: 540px;
+  width: 530px;
+  display: flex;
+  align-items: flex-end;
 }
 
 .place__artist {
