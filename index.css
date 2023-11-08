@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6, p, li {
   font-family: 'Inter';
   background-color: #2A2C2F;
   color: #fff;
+  min-width: 320px:
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
