@@ -72,9 +72,21 @@
 }
 
 .place__link {
-
+  background-color: #0278FE;
+  border: none ;
+  border-radius: 5px;
+  z-index: 2;
+  margin-top: 2.8rem;
+  background-color: ;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  padding: 13px 20px;
 }
 
 .palce__link_text {
-
+  font-size: 1.1em;
+  color: #fff;
+  width: 198px;
+  height: 48px;
+  font-weight: 600;
 }
