@@ -1,4 +1,11 @@
-.cover {
+
+
+
+
+
+
+
+/* .cover {
   position: relative;
   width: 92%;
   height: 740px;
@@ -48,7 +55,7 @@
 }
 
 .cover__title {
-  width: 52%;
+  width: 52%;z
   font-size: 92px;
   font-weight: 900;
   line-height: 4.75rem;
@@ -77,4 +84,4 @@
 
 .cover__link:hover {
   opacity: .8;
-}
+} */
