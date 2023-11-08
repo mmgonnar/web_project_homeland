@@ -41,7 +41,6 @@
   font-size: .75em;
   text-transform: uppercase;
   color: #aaa;
-
   padding-bottom: .5em;
 }
 
@@ -59,11 +58,13 @@
   overflow: visible;
   flex-direction: column;
   gap: 1em;
+  max-height: 100px;
 }
 
 .place__paragraph {
   font-size: 1.1em;
   line-height: 1.8rem;
+  overflow: visible;
 }
 
 .place__img {
