@@ -1,18 +1,18 @@
 .places {
-  width: 956px;
-  height: 752px;
+
   margin: auto;
-  padding-bottom: 5.8em;
 
 }
 
 .place {
-  width: 100%;
+  width: 956px;
+  height: 752px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 3fr 0.3fr;
   gap: 2.5em;
   row-gap: 3em;
+  padding-bottom: 5.8em;
 }
 
 .place__title {
@@ -34,13 +34,14 @@
   justify-content: flex-end;
   width: 100%;
   height: 152px;
-  row-gap: .5em;
 }
 
 .place__subtitle {
   font-size: .75em;
   text-transform: uppercase;
   color: #aaa;
+
+  padding-bottom: .5em;
 }
 
 .place__artist_name {
@@ -89,4 +90,5 @@
   width: 198px;
   height: 48px;
   font-weight: 600;
+
 }
