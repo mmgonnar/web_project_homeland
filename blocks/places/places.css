@@ -22,9 +22,9 @@
   font-size: 4.5em;
   line-height: 4.75rem;
   font-weight: 900;
-  width: 50%;
   height: 152px;
   overflow: visible;
+  max-width: 584px;
 }
 
 .place__artist {
