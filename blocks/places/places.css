@@ -1,5 +1,9 @@
 .places {
   margin: auto;
+  display: grid;
+  width: 80%;
+  row-gap: 5.8em;
+  justify-items: center;
 }
 
 .place {
@@ -10,7 +14,6 @@
   grid-template-rows: 1fr 3fr 0.3fr;
   gap: 2.5em;
   row-gap: 3em;
-  padding-bottom: 5.8em;
 }
 
 .place__title {
