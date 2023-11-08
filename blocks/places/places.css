@@ -10,7 +10,7 @@
   width: 956px;
   height: 752px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 460px 484px;
   grid-template-rows: 1fr 3fr 0.3fr;
   gap: 2.5em;
   row-gap: 3em;
@@ -23,17 +23,7 @@
   line-height: 4.75rem;
   font-weight: 900;
   height: 152px;
-}
-
-.place__title_usa{
-  grid-column: 1;
-  grid-row: 1;
-  font-size: 4.5em;
-  line-height: 4.75rem;
-  font-weight: 900;
-  height: 152px;
-  overflow: visible;
-  width: 584px;
+  width: 540px;
 }
 
 .place__artist {
@@ -44,6 +34,7 @@
   justify-content: flex-end;
   width: 100%;
   height: 152px;
+  align-self: end;
 }
 
 .place__subtitle {
