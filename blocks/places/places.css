@@ -85,9 +85,13 @@
 
 .palce__link_text {
   font-size: 1.1em;
-  width: 198px;
-  height: 48px;
   font-weight: 600;
+  text-align: center;
+  background-color: #0278FE;
+  color: #fff;
+  text-decoration: none;
+  border: none ;
+  border-radius: 5px;
 }
 
 /* mobile 320px */
