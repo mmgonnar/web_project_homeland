@@ -79,6 +79,12 @@
   grid-column: 1;
   grid-row: 3;
   z-index: 2;
+  background-color: #0278FE;
+  color: #fff;
+  text-decoration: none;
+  border: none ;
+  border-radius: 5px;
+  padding: 15px 15px;
   /* margin-top: 2.8rem; *//*
   padding: 13px 20px; */
 }
@@ -87,12 +93,6 @@
   font-size: 1.1em;
   font-weight: 600;
   text-align: center;
-  background-color: #0278FE;
-  color: #fff;
-  text-decoration: none;
-  border: none ;
-  border-radius: 5px;
-  padding: 15px 15px;
 }
 
 /* mobile 320px */
@@ -175,6 +175,7 @@
     font-weight: 600;
     padding: 15px 15px;
     width: 100%;
+    text-align: center;
   }
 }
 
