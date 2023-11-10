@@ -39,14 +39,14 @@
   align-self: end;
 }
 
-.place__subtitle {
+.artist__subtitle {
   font-size: .75em;
   text-transform: uppercase;
   color: #aaa;
   padding-bottom: .5em;
 }
 
-.place__artist_name {
+.artist__name {
   font-size: 1.1em;
   line-height: 1.3rem;
 }
@@ -89,7 +89,7 @@
   text-align: center;
 }
 
-.palce__link_text {
+.link__texttext {
   font-size: 1.1em;
   font-weight: 600;
   text-align: center;
@@ -130,14 +130,14 @@
     height: auto;
   }
 
-  .place__subtitle {
+  .artist__subtitle {
     font-size: .75em;
     text-transform: uppercase;
     color: #aaa;
     padding-bottom: .5em;
   }
 
-  .place__artist_name {
+  .artist__name {
     font-size: 1.1em;
     line-height: 1.3rem;
   }
@@ -172,7 +172,7 @@
     max-width: 355px;
   }
 
-  .palce__link_text {
+  .link__text {
     font-size: .9em;
     font-weight: 600;
     width: 100%;
@@ -216,14 +216,14 @@
     height: auto; */
   }
 
-  .place__subtitle {
+  .artist__subtitle {
     font-size: .75em;
     text-transform: uppercase;
     color: #aaa;
     padding-bottom: .5em;
   }
 
-  .place__artist_name {
+  .artist__name {
     font-size: 1.1em;
     line-height: 1.3rem;
   }
@@ -257,7 +257,7 @@
     width: 90%;
   }
 
-  .palce__link_text {
+  .link__text {
     font-size: .9em;
     height: 48px;
     font-weight: 600;
