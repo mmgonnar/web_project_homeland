@@ -97,13 +97,11 @@
   .lead__title {
     min-width: 288px;
     font-size: 40px;
-    line-height: 44px;
-    padding-bottom: 32px;
     width: 90%;
     max-width: 793px;
     font-size: 5em;
     line-height: 100px;
-    padding-bottom: 6em;
+    padding-bottom: 1em;
   }
 
   .lead__subtitle {
