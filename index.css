@@ -33,6 +33,8 @@ h1, h2, h3, h4, h5, h6, p, li {
   -moz-text-size-adjust: 100%;
 }
 
+
+
 .link {
   cursor:pointer;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .3);
@@ -46,3 +48,4 @@ h1, h2, h3, h4, h5, h6, p, li {
   border: none ;
   border-radius: 5px;
 }
+
