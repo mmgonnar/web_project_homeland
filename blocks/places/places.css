@@ -2,7 +2,7 @@
   margin: 0 auto 3em;
   display: grid;
   width: 956px;
-  row-gap: 5.8em;
+  row-gap: 5em;
   justify-items: center;
 }
 
@@ -10,7 +10,7 @@
   width: 80%;
   display: grid;
   grid-template-columns: 460px 484px;
-  grid-template-rows: repeat(5, auto);
+  grid-template-rows: repeat(3 , auto);
   gap: 2.5em;
   row-gap: 3em;
   justify-content: center;
@@ -55,6 +55,7 @@
   grid-column: 2;
   grid-row: 2;
   width: 100%;
+  height: 60%;
   display: flex;
   overflow: visible;
   flex-direction: column;
@@ -172,7 +173,7 @@
 
 
 /* tablet 768px */
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1022px) {
   .places {
     margin: 0 auto 0;
     display: grid;
