@@ -53,9 +53,9 @@
 
 .place__text {
   grid-column: 2;
-  grid-row: 2;
-  width: 100%;
-  height: 60%;
+  grid-row: 2 / span 3;
+  width: 100%;/*
+  height: 60%; */
   display: flex;
   overflow: visible;
   flex-direction: column;
@@ -79,8 +79,8 @@
   grid-column: 1;
   grid-row: 3;
   z-index: 2;
-  margin-top: 2.8rem;
-  padding: 13px 20px;
+  /* margin-top: 2.8rem; *//*
+  padding: 13px 20px; */
 }
 
 .palce__link_text {
@@ -92,6 +92,7 @@
   text-decoration: none;
   border: none ;
   border-radius: 5px;
+  padding: 15px 15px;
 }
 
 /* mobile 320px */
@@ -166,12 +167,14 @@
     grid-column: 1;
     grid-row: 5;
     margin-top: 0;
+    width: 100%;
   }
 
   .palce__link_text {
     font-size: .9em;
-    height: 48px;
     font-weight: 600;
+    padding: 15px 15px;
+    width: 100%;
   }
 }
 
@@ -208,8 +211,8 @@
 
   .place__artist {
     grid-column: 2;
-    grid-row: 1;
-    height: auto;
+    grid-row: 1;/*
+    height: auto; */
   }
 
   .place__subtitle {
@@ -248,12 +251,14 @@
   .place__link {
     grid-column: 1;
     grid-row: 3;
-    margin-top: 0;
+    margin-top: 2em;
   }
 
   .palce__link_text {
     font-size: .9em;
     height: 48px;
     font-weight: 600;
+    padding: 15px 15px;
+    width: 100%;
   }
 }
