@@ -107,7 +107,7 @@
   }
 
   .lead__subtitle {
-    width: 288px;
+    min-width: 288px;
     font-size: 18px;
     line-height: 22px;
     padding-bottom: 32px;
