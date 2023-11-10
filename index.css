@@ -28,3 +28,17 @@ h1, h2, h3, h4, h5, h6, p, li {
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
 }
+
+.link {
+  cursor:pointer;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease;
+  background-color: #0278FE;
+  color: #fff;
+  text-decoration: none;
+  border: none ;
+  border-radius: 5px;
+}
