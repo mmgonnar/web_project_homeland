@@ -92,6 +92,7 @@ ul{
   padding: 15px 15px;
   box-sizing: border-box;
   text-align: center;
+  width: 100%;
   max-width: 355px;
 }
 
@@ -173,7 +174,6 @@ ul{
     grid-column: 1;
     grid-row: 5;
     margin-top: 0;
-    width: 90%;
     max-width: 355px;
   }
 
@@ -259,7 +259,6 @@ ul{
     grid-row: 3;
     margin-top: 2em;
     box-sizing: border-box;
-    width: 90%;
   }
 
   .palce__link_text {
