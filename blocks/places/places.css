@@ -5,6 +5,9 @@
   row-gap: 5em;
   justify-items: center;
 }
+ul{
+  margin: 0;
+}
 
 .place {
   width: 80%;
@@ -14,6 +17,7 @@
   gap: 2.5em;
   row-gap: 3em;
   justify-content: center;
+  list-style: none;
 }
 
 .place__title {
@@ -102,8 +106,7 @@
     margin: 0 auto 1em;
     display: grid;
     width: 100%;
-    row-gap: 1em;/*
-    justify-items: center; */
+    row-gap: 1em;
   }
 
   .place {
