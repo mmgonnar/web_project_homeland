@@ -18,6 +18,7 @@ ul{
   row-gap: 3em;
   justify-content: center;
   list-style: none;
+  padding: 0;
 }
 
 .place__title {
